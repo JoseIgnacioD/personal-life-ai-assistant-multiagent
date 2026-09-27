@@ -1,0 +1,12 @@
+# Generated database (recreate with `python init_db.py`)
+personal_assistant.db
+
+# This project's own virtual environment — do not commit installed packages
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets, if you ever add a local env file
+.env
